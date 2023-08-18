@@ -20,7 +20,7 @@ timezone:
 
 title: OlderBrother.dev # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Computer science and programming taught by older brother # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Older brother teaching sisters and brothers all over the world cool stuff around programming 
@@ -29,7 +29,7 @@ description: >- # used by seo meta and the atom feed
 url: ""
 
 github:
-  username: olderbrother.dev # change to your github username
+  username: olderbrother-dev # change to your github username
 
 #twitter:
 #  username: twitter_username # change to your twitter username
