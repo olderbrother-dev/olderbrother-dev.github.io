@@ -21,7 +21,7 @@ destination.
 
 
 > Paragraphs carefully generated with ChatGPT, but carelessly curated by a human
-(Good daemon called "Older Brother") :) 
+(Good daemon called "Older Brother") :smile: 
 {: .prompt-tip }
 
 ## Real _about me_
